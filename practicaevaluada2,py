@@ -1,0 +1,15 @@
+calificacion= int(input("su calificación es:"))
+if calificacion<0:
+    print("calificacion invalida")
+elif calificacion==100:
+    print("calificacion perfecta")
+elif calificacion>=90:
+    print("excelente")
+elif calificacion>=70:
+    print("bueno")
+elif calificacion>=50:
+    print("suficiente")
+elif calificacion<=50:
+    print("insuficiente")
+else:
+    print("calificacion invalida")
