@@ -1,0 +1,13 @@
+{"estudiante":[{
+
+    "nombre":"Daniela",
+    "apellido":"Castro",
+    "cedula": "31052711",
+    "nota": "15"
+}, {
+    "nombre":"patricia",
+    "apellido":"Muñoz",
+    "cedula": "31063881",
+    "nota": "15"
+}]
+}
